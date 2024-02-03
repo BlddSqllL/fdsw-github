@@ -10,6 +10,9 @@ body {
   background-size: cover;
   background-position: left;
 }
+.resumen {
+  justify-content: center;
+}
 
 /* Mis trabajos */
 
